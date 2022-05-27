@@ -1,7 +1,12 @@
-# PU-Net: Point Cloud Upsampling Network
+# RECORD
 by [Lequan Yu](http://appsrv.cse.cuhk.edu.hk/~lqyu/), Xianzhi Li, [Chi-Wing Fu](http://www.cse.cuhk.edu.hk/~cwfu/), [Daniel Cohen-Or](https://www.cs.tau.ac.il/~dcor/), [Pheng-Ann Heng](http://www.cse.cuhk.edu.hk/~pheng/). 
 
-### Introduction
+### 5.27
+
+tmux.  https://gpushare.com/docs/best_practices/tmux/
+
+
+
 
 This repository is for our CVPR 2018 paper '[PU-Net: Point Cloud Upsampling Network](https://arxiv.org/abs/1801.06761)'. The code is modified from [PointNet++](https://github.com/charlesq34/pointnet2) and [PointSetGeneration](https://github.com/fanhqme/PointSetGeneration). 
 
@@ -83,5 +88,5 @@ If PU-Net is useful for your research, please consider citing:
 
 ### Questions
 
-Please contact 'lqyu@cse.cuhk.edu.hk'
+
 
